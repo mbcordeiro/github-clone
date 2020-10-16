@@ -4,6 +4,7 @@ import { Container, Main, LeftSide, RightSide, Repos, CalendarHeading, } from ".
 
 import ProfileData from "../../components/ProfileData";
 import RepoCard from "../../components/RepoCard";
+import RandomCalendar from "../../components/RandomCalendar";
 
 const Profile: React.FC = () => {
   return (
